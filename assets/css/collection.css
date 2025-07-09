@@ -9,7 +9,7 @@ a{
     text-decoration: none;
 }
 body{
-    background-image: url(../images/collectionbg.jpg);
+    background-image: url(../images/Home_img/bg-collection.jpg);
     background-attachment:fixed;
     background-size:cover;
     background-repeat:no-repeat;
@@ -210,8 +210,15 @@ font-size:10px;
 .main-heading{
     margin-top: 40px;
     text-align: center;
+    font-size:4em;
+}   
+.sub-heading{
+    margin-top: 40px;
+    text-align: center;
+    color:rgba(255, 174, 22, 0.895);
     font-size:3em;
 }   
+
 
 /* section 2  ************************************************************************************************* */
 
@@ -291,6 +298,7 @@ footer{
     padding:35px;
     text-align: center;
     font-size:10px;
+    width: 100%;
 }
 #footerhead{
     color: white;
