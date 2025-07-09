@@ -8,7 +8,7 @@ a{
     text-decoration: none;
 }
 body{
-    background-image: url(../images/homebg.jpg);
+    background-image: url(../images/Home_img/bg-img-2.jpg);
     background-attachment: fixed;
     background-size:cover;
     background-repeat:no-repeat ;
@@ -233,19 +233,19 @@ right: 15px;
     @keyframes animate{
         
         0%,100%{
-            background-image: url(../images/homebg1.jpg);            
+            background-image: url(../images/Home_img/h-img-3.jpg);            
         
          }
          25%{
-            background-image: url(../images/homebg2.jpg);
+            background-image: url(../images/Home_img/h-img-4.jpg);
             
          }  
          60%{
-            background-image: url(../images/homebg3.jpg);
+            background-image: url(../images/Home_img/h-img-8.jpg);
         
          }
-         60%{
-            background-image: url(../images/NEW.jpeg);
+         50%{
+            background-image: url(../images/Home_img/h-img-7.jpg);
 
          }
          
